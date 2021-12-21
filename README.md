@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Solution Link](https://github.com/mastertbal/NFT-PREVIEW-CARD)
+- Solution URL: [Github Solution Link](https://github.com/mastertbal/NFT-PREVIEW-CARD-)
 - Live Site URL:[Live State Link](https://mastertbal.github.io/NFT-PREVIEW-CARD-/index.html)
 
 ## My process
